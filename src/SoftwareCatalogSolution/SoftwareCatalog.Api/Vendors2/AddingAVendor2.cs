@@ -1,4 +1,7 @@
+//total NEWB- see you next week in intro to programming.  Thank you!
+
 namespace SoftwareCatalog.Tests.Vendors;
+
 public class AddingAVendor2
 {
     [Fact]
